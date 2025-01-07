@@ -1,29 +1,62 @@
-# Hey there, I'm ihoflaz! 👋
+# İbrahim Hulusi Oflaz
 
-Merhaba! GitHub dünyasında dolaşan bir yazılım mühendisi öğrencisiyim. Kodu, teknolojiye olan tutkumla harmanlayarak projeler üretiyorum. 😎
+Yapay zeka ve modern yazılım teknolojilerinin kesişiminde çalışan bir yazılım mühendisliği öğrencisiyim. Özellikle derin öğrenme, konteynerizasyon ve kurumsal yazılım çözümleri alanlarında kendimi geliştirmekteyim. AI/ML teknolojilerinin endüstriyel uygulamaları konusunda tutkulu bir araştırmacıyım.
 
-## 🌟 Hakkımda
+## Uzmanlık Alanları
 
-- 🚀 **Projeler:** Her projede yeni bir şeyler öğrenmeye çalışıyorum. İnovasyon, yapay zeka, veri bilimi gibi konular ilgi alanlarım arasında.
-- 🧠 **Öğrenme:** Yeni teknolojileri keşfetmekten, bunları projelerime entegre etmekten büyük keyif alıyorum.
-- 💼 **Gelecek Planları:** Kendimi yazılım geliştirme ve veri analitiği alanlarında geliştirmek istiyorum.
-- 📚 **Şu Anda Öğreniyorum:** SwiftUI, PostgreSQL ve BLE teknolojileri ile Sa-Ra (Safe-Range) projem üzerinde çalışıyorum.
-  
-## 🔧 Yetkinlikler
+- **Yapay Zeka & Makine Öğrenmesi**
+  - Derin öğrenme modelleri geliştirme ve optimizasyonu
+  - Doğal dil işleme uygulamaları
+  - Computer Vision projeleri
+  - AI model deployment ve MLOps pratikleri
 
-- **Diller:** Python, Java, Swift
-- **Araçlar:** Xcode, PostgreSQL, Wireshark, UTM, SDK6800 Emulator
-- **Teknolojiler:** BLE, Yapay Zeka, Makine Öğrenimi, SwiftUI
+- **Konteynerizasyon & DevOps**
+  - Docker ve Docker Compose ile mikroservis mimarileri
+  - Container orchestration sistemleri
+  - CI/CD pipeline yapılandırmaları
 
-## 🎮 Eğlenceli Bir Gerçek
+- **Kurumsal Çözümler**
+  - Odoo ERP sistemleri entegrasyonu
+  - Veritabanı yönetimi ve optimizasyonu
+  - İş süreçlerinin otomasyonu
 
-Gerçek dünya problemlerine kodla çözüm bulmayı seviyorum, hatta projelerime ilginç isimler vermekten büyük keyif alıyorum! 💡
+## Profesyonel Deneyim ve Projeler
 
-## 📫 İletişim
+### AI Araştırma ve Geliştirme
+- Derin öğrenme modelleri ile görüntü işleme
+- NLP tabanlı metin analizi ve sınıflandırma
+- Yapay zeka modellerinin endüstriyel uygulamaları
 
-Bana ulaşmak isterseniz:
-- 📧 **Email:** [youremail@domain.com](mailto:youremail@domain.com)
-- 💼 **LinkedIn:** [LinkedIn profiliniz]
+### Docker Control Panel
+- Konteyner yönetimi için web tabanlı kontrol paneli
+- AI model deployment altyapısı
+- [Proje detayları](https://github.com/ihoflaz/docker-control-panel)
 
-**Kodu yaşa, tutkuyla yarat!**
+### Veritabanı ve Optimizasyon Çalışmaları
+- Büyük veri setleri üzerinde performans optimizasyonu
+- [Redis çalışmaları](https://github.com/ihoflaz/redis-training)
+
+## Teknik Yetkinlikler
+
+- **AI/ML:** TensorFlow, PyTorch, Scikit-learn
+- **Programlama:** Python, JavaScript, Dart
+- **Veritabanları:** PostgreSQL, Redis
+- **DevOps:** Docker, Docker Compose
+- **Framework'ler:** Flutter, Odoo
+- **Versiyon Kontrolü:** Git, GitHub
+
+## Araştırma ve Gelişim Alanları
+
+- Derin öğrenme modelleri ve uygulamaları
+- AI model optimizasyonu ve deployment
+- Büyük dil modelleri (LLM) entegrasyonları
+- MLOps ve AI pipeline'ları
+- Mikroservis mimarileri
+- İleri seviye veritabanı yönetimi
+
+## İletişim
+
+Yapay zeka projeleri, araştırma iş birlikleri ve profesyonel çalışmalar için:
+- GitHub: [@ihoflaz](https://github.com/ihoflaz)
+- X: [@ihoflaz](https://x.com/ihoflaz)
 
